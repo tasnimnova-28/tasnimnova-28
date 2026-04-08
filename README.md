@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there 👋 I'm Tasnim Nova
 
-<!--
-**tasnimnova-28/tasnimnova-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **CSE Student | Aspiring Web Developer | Problem Solver**
 
-Here are some ideas to get you started:
+I am a Computer Science and Engineering (CSE) student passionate about technology and continuously learning new skills. I enjoy building modern web applications and strengthening my problem-solving ability through programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills & Technologies
+
+* 🌐 HTML5, CSS3
+* ⚡ JavaScript (ES6+)
+* ⚛️ React.js
+* 💨 Tailwind CSS
+* 🧠 Data Structures & Algorithms (DSA)
+* 🔹 C & C++
+* 🐍 Python (Learning)
+* 🛠 Git & GitHub
+
+## 🌱 Currently Learning
+
+* Advanced JavaScript & React
+* Python programming
+* DSA problem solving
+* Real-world project development
+
+## 🎯 Goals
+
+* Become a skilled **Full-Stack Developer**
+* Build impactful and user-friendly applications
+* Improve problem-solving and coding skills
+* Contribute to open-source projects
+
+## 📚 Motto
+
+> *Code • Learn • Build • Repeat*
+
+⭐ Explore my repositories to see my progress and projects as I grow in the tech world!
