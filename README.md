@@ -1,57 +1,124 @@
-<h1 align="center">Hi 👋, I'm Tasnim Nova</h1>
-<h3 align="center">A passionate Web developer from Bangladesh</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tasnimnova-28&label=Profile%20views&color=0e75b6&style=flat" alt="tasnimnova-28" /> </p>
-<p># Hi there 👋 I'm Tasnim Nova
+# Hi there, I'm Tasnim Nova 👋
 
-🚀 **CSE Student | Aspiring Web Developer | Problem Solver**
+### 🚀 CSE Student · Web Developer · Problem Solver
 
-I am a Computer Science and Engineering (CSE) student passionate about technology and continuously learning new skills. I enjoy building modern web applications and strengthening my problem-solving ability through programming.
+<p>
+  <img src="https://komarev.com/ghpvc/?username=tasnimnova-28&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/tasnimnova-28?label=Followers&style=flat-square&color=0e75b6" alt="GitHub Followers" />
+</p>
 
-## 💻 Skills & Technologies
+</div>
 
-* 🌐 HTML5, CSS3
-* ⚡ JavaScript (ES6+)
-* ⚛️ React.js
-* 💨 Tailwind CSS
-* 🧠 Data Structures & Algorithms (DSA)
-* 🔹 C & C++
-* 🐍 Python (Learning)
-* 🛠 Git & GitHub
+---
+
+## 👩‍💻 About Me
+
+I'm a **Computer Science & Engineering (CSE)** student from 🇧🇩 Bangladesh, passionate about building modern web applications and continuously sharpening my problem-solving skills.
+
+- 🌱 Currently learning **Advanced React, Python & DSA**
+- 🎯 Goal: Become a skilled **Full-Stack Developer**
+- 💡 Motto: *Code • Learn • Build • Repeat*
+- 📫 Reach me at: **tasnimnova12521132@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+
+---
 
 ## 🌱 Currently Learning
 
-* Advanced JavaScript & React
-* Python programming
-* DSA problem solving
-* Real-world project development
+| Topic | Progress |
+|-------|----------|
+| Advanced JavaScript & React | 🟩🟩🟩🟩⬜ |
+| Python Programming | 🟩🟩🟨⬜⬜ |
+| Data Structures & Algorithms | 🟩🟩🟩⬜⬜ |
+| Full-Stack Development | 🟩🟨⬜⬜⬜ |
+
+---
 
 ## 🎯 Goals
 
-* Become a skilled **Full-Stack Developer**
-* Build impactful and user-friendly applications
-* Improve problem-solving and coding skills
-* Contribute to open-source projects
+- [ ] Master **React & Node.js** for full-stack development
+- [ ] Solve **100+ DSA problems** on competitive platforms
+- [ ] Build and deploy **3 real-world projects**
+- [ ] Contribute to an **open-source project**
+- [ ] Land my first **developer internship**
 
-## 📚 Motto
+---
 
-> *Code • Learn • Build • Repeat*
+## 📊 GitHub Stats
 
-⭐ Explore my repositories to see my progress and projects as I grow in the tech world!
-</p>
-- 📫 How to reach me **tasnimnova12521132@gmail.com**
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tasnimnova-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tasnimnova-dev/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/tasnim.99161/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tasnim.99161/" height="30" width="40" /></a>
-<a href="https://instagram.com/__mitsuha_0_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__mitsuha_0_0" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/tasnimaestro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tasnimaestro" height="30" width="40" /></a>
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tasnimnova-28&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Tasnim's GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasnimnova-28&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tasnimnova-28&show_icons=true&locale=en&layout=compact" alt="tasnimnova-28" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tasnimnova-28&" alt="tasnimnova-28" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tasnimnova-28&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=tasnimnova-28&theme=tokyonight&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tasnimnova-dev/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tasnim.99161/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__mitsuha_0_0)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/tasnimaestro)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tasnimnova12521132@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Random Dev Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+<div align="center">
+
+⭐ **If you like my work, consider starring my repos!** ⭐
+
+</div>
