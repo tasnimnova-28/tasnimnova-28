@@ -23,6 +23,7 @@ I'm a **Computer Science & Engineering (CSE)** student from 🇧🇩 Bangladesh,
 - 🎯 Goal: Become a skilled **Full-Stack Developer**
 - 💡 Motto: *Code • Learn • Build • Repeat*
 - 📫 Reach me at: **tasnimnova12521132@gmail.com**
+- know more: https://my-portfolio-nine-flame-71.vercel.app/
 
 ---
 
